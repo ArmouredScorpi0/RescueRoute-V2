@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+osmnx
+networkx
+rasterio
+numpy
+scipy
+shapely
+geopy
+pydantic
+pillow
